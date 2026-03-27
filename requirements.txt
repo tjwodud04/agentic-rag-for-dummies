@@ -90,7 +90,7 @@ PyMuPDF==1.26.7
 pymupdf-layout==1.26.6
 pymupdf4llm==0.2.9
 python-dateutil==2.9.0.post0
-python-multipart==0.0.21
+python-multipart==0.0.22
 pytz==2025.2
 PyYAML==6.0.3
 pyzmq==27.1.0
