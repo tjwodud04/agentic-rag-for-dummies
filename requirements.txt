@@ -86,7 +86,7 @@ pydantic==2.12.5
 pydantic_core==2.41.5
 pydub==0.25.1
 Pygments==2.19.2
-PyMuPDF==1.26.6
+PyMuPDF==1.26.7
 pymupdf-layout==1.26.6
 pymupdf4llm==0.2.9
 python-dateutil==2.9.0.post0
