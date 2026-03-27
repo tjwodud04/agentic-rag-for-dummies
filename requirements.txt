@@ -20,7 +20,7 @@ ffmpy==1.0.0
 filelock==3.20.3
 flatbuffers==25.12.19
 fsspec==2026.1.0
-gradio==6.3.0
+gradio==6.7.0
 gradio_client==2.0.3
 groovy==0.1.2
 grpcio==1.76.0
