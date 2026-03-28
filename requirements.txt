@@ -77,7 +77,7 @@ pillow==11.3.0
 platformdirs==4.5.1
 portalocker==3.2.0
 prompt_toolkit==3.0.52
-protobuf==6.33.3
+protobuf==6.33.5
 psutil==7.2.1
 ptyprocess==0.7.0
 pure_eval==0.2.3
